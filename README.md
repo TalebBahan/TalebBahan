@@ -1,6 +1,3 @@
-Here is a professional GitHub `README.md` based on your LaTeX CV. It presents your profile in a way that's tailored to developers and recruiters browsing GitHub:
-
----
 
 # 👨‍💻 Taleb Bahan — Full Stack Developer
 
@@ -85,6 +82,3 @@ Institut Supérieur du Numérique
 
 Français, Anglais, Arabe
 
----
-
-Let me know if you'd like a version in English or Markdown formatting optimized for GitHub Pages.
